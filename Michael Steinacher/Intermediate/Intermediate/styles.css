@@ -1,0 +1,14 @@
+#partOne{
+    display: flex;
+    
+}
+
+#sectionOne{
+    display: flex;
+    flex-direction: column;
+}
+
+#sectionTwo{
+    display: flex;
+    flex-direction: column;
+}
